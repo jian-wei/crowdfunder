@@ -1,6 +1,7 @@
-# node-js-sample
+# crowdfunder
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A personal crowd funding site built with Node.js using [Express 4](http://expressjs.com/).
+Originally forked from [heroku/node-js-sample](https://github.com/heroku/node-js-sample).
 
 ## Running Locally
 
