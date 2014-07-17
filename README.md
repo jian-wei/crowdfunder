@@ -8,8 +8,8 @@ Originally forked from [heroku/node-js-sample](https://github.com/heroku/node-js
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
-cd node-js-sample
+git clone git@github.com:jian-wei/crowdfunder.git # or clone your own fork
+cd crowdfunder
 npm install
 npm start
 ```
