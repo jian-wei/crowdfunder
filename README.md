@@ -2,8 +2,8 @@
 
 This is a bootstrap of a personal crowd funding site built with Node.js using [Express 4](http://expressjs.com/), [Twitter Bootstrap](https://github.com/twbs/bootstrap), [Font Awesome](https://github.com/FortAwesome/Font-Awesome), [Bootstrap Social Buttons](https://github.com/noizwaves/bootstrap-social-buttons/)
 
-Originally forked from [heroku/node-js-sample](https://github.com/heroku/node-js-sample).
-Started from the [Startup Engineering Course on Coursera](https://class.coursera.org/startup-001)
+Originally forked from [heroku/node-js-sample](https://github.com/heroku/node-js-sample).<br>
+Started from the [Startup Engineering Course on Coursera](https://class.coursera.org/startup-001).
 
 ## Running Locally
 
